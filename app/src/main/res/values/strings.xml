@@ -1,4 +1,4 @@
 <resources>
-    <string name="app_name">Lampe Torche</string>
-    <string name="icone_d_une_lampe_torche">Icone d\'une lampe torche</string>
+    <string name="app_name">FlashLight</string>
+    <string name="icone_d_une_lampe_torche">Flashlight icon</string>
 </resources>
