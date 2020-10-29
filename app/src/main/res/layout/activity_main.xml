@@ -12,6 +12,7 @@
         android:src="@drawable/lampe_eteinte"
         android:id="@+id/btnLampeTorche"
         android:layout_width="300dp"
-        android:layout_height="600dp" />
+        android:layout_height="600dp"
+        android:contentDescription="@string/icone_d_une_lampe_torche" />
 
 </LinearLayout>
