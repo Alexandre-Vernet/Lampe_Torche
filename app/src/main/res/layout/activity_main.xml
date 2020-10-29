@@ -11,7 +11,7 @@
     <ImageView
         android:src="@drawable/lampe_eteinte"
         android:id="@+id/btnLampeTorche"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content" />
+        android:layout_width="300dp"
+        android:layout_height="600dp" />
 
 </LinearLayout>
